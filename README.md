@@ -78,6 +78,4 @@ These projects collectively cover a range of AI-related topics, providing hands-
 
 Thank you for exploring these AI programming projects! If you have any questions or suggestions, feel free to reach out.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
