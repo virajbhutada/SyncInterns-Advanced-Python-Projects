@@ -1,4 +1,4 @@
-# Python Internship at Sync Interns - Programming Projects
+# Python Internship at Sync Intern's - Programming Projects
 
 ## Author: Viraj N. Bhutada
 
