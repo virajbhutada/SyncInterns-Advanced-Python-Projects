@@ -1,6 +1,6 @@
 # Python Internship at Sync Intern's - Programming Projects
 
-## Author: Viraj N. Bhutada
+## Author: [Viraj N. Bhutada](https://www.linkedin.com/in/viraj-bhutada-a172b027a/)
 
 Welcome to the repository containing a collection of Python programming projects. Each project explores various aspects of programming, ranging from implementing chatbots to developing a URL shortener.
 
