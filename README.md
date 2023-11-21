@@ -77,3 +77,7 @@ The Chatbot Implementation project explores the development of rule-based chatbo
 These projects collectively cover a range of AI-related topics, providing hands-on experience in GUI development, security practices, web development, and chatbot implementation. Explore each project's respective folder for detailed READMEs and code. Feel free to modify and enhance the code as per your specific requirements.
 
 Thank you for exploring these AI programming projects! If you have any questions or suggestions, feel free to reach out.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
