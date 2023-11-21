@@ -3,7 +3,7 @@
 # Author: Viraj N. Bhutada
 
 **Description:**
-Task 1 involves creating a chatbot capable of recognizing greetings, answering queries about itself, telling jokes, and handling various user inputs. The chatbot provides an interactive and engaging experience, enhancing fundamental AI programming skills.
+This task involves creating a chatbot capable of recognizing greetings, answering queries about itself, telling jokes, and handling various user inputs. The chatbot provides an interactive and engaging experience, enhancing fundamental AI programming skills.
 
 ## Objectives:
 
